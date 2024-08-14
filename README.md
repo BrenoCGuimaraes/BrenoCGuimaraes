@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, meu nome é Breno Guimarães, estudante de Análise e Desenvolvimento de Sistemas - FATEC. 
+Programador Fullstack, porém tenho mais afinidade com JavaScript, CSharp, React, MySQL, HTML e CSS.
 
 <!--
 **BrenoCGuimaraes/BrenoCGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
