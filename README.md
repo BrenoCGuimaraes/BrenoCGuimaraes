@@ -1,6 +1,15 @@
 ## Olá, meu nome é Breno Guimarães, estudante de Análise e Desenvolvimento de Sistemas - FATEC. 
 Programador Fullstack, porém tenho mais afinidade com JavaScript, CSharp, React, MySQL, HTML e CSS.
 
+<div align="middle">
+
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=BrenoCGuimaraes&show_icons=true&theme=dracula)](https://github.com/BrenoCGuimaraes)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCGuimaraes&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/BrenoCGuimaraes)
+    
+
+
+</div>
+
 <!--
 **BrenoCGuimaraes/BrenoCGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
